@@ -3,11 +3,11 @@
     "name":"Herbalee",
     "occupation":"(Your Occupation Here)",
     "description": "Building your health sip by sip",
-    "image":"DextIn.jpg",
-    "bio":"The startup envisions implementation of innovative approaches in the IoT sector to build products at a commercial level",
+    "image":"DrVyan.png",
+    "bio":"We treat people for all types of diseases through Ayurvedic Medicines and Panchkarma Therapies.",
     "contactmessage":"Feel free to contact us using the form below!.",
-    "email": "foodin.dexterUs@gmail.com",
-    "phone": "+91 9810781651",
+    "email": "vyanayurveda@gmail.com",
+    "phone": "9971282000",
     "address":{
       "street":"A-26, Pushpanjali Enclave,",
       "city":"Pitampura",
@@ -15,7 +15,7 @@
       "zip": "110034"
     },
     "website": "",
-    "resumedownload":"infographicFoodin.pdf",
+    "resumedownload":"infographic.pdf",
     "social":[
       {
         "name":"facebook",
